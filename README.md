@@ -8,8 +8,7 @@
 - 💞️ I’m currently working as a Senior Backend Engineer @Moniepoint Inc.
 - 📫 Kindly reach me @ialihaider75@gmail.com I'll try to get back to you ASAP.
 
-Ali's OUT ... :exclamation::exclamation::exclamation:
-
+Ali's OUT... :exclamation:
 <!---
 ialihaider75/ialihaider75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
