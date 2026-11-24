@@ -1,6 +1,6 @@
 # Hi, I'm Ali Haider 👋
 
-**Backend engineer** building scalable, event-driven fintech systems in Java and Spring Boot. 6+ years of designing and owning features end to end, from architecture to production, with a focus on reliability and measurable impact. These days I'm also building AI agents, the backend way.
+**Backend engineer** building scalable, event-driven fintech systems in Java and Spring Boot. 7+ years of designing and owning features end to end, from architecture to production, with a focus on reliability and measurable impact. These days I'm also building AI agents, the backend way.
 
 **[Portfolio](https://ialihaider75.github.io)** · **[LinkedIn](https://www.linkedin.com/in/ialihaider75)** · **ialihaider75@gmail.com**
 
